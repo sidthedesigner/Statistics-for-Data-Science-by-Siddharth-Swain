@@ -6,3 +6,62 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 - What is Statistics?
 - Understanding Statistics
+- Descriptive Statistics
+- Inferential Statistics
+- Difference between Descriptive and Inferential Statistics
+- Population & Sample
+- Examples of Population & Sample
+- Parameter & Statistic
+- Sampling Methods
+- Simple Random Sampling
+- Stratified Sampling
+- Systematic Sampling
+- Clustering Sampling
+- Types of Variables
+- Independent and Dependent Variables
+- Variable Measurement Scales
+- Frequency Distributions and Cumulative Frequency Distributions
+- Bar Graphs and Pie Charts
+- Histograms and Stem & Leaf Plots
+- Measures of Central Tendency
+- Mean (Arithmetic)
+- Mean (Arithmetic) of Sample and Population
+- Median
+- Median of Grouped Data
+- Mode
+- Mode of Grouped Data
+- Summary of when to use the Mean, Median and Mode
+- Measures of Dispersion
+- Measure of Dispersion in Statistics
+- Types of Measures of Dispersion
+- Absolute Measures of Dispersion
+- Relative Measures of Dispersion
+- Measures of Dispersion Formula
+- Measures of Dispersion and Central Tendency
+- Important Notes on Measures of Dispersion
+- Variance and Standard Deviation of a Population
+- Variance and Standard Deviation of a Sample
+- Why divide by N-1 to Calculate Sample Variance?
+- Mean Deviation
+- Quartile Deviation
+- Skewness
+- Kurtosis
+- Coefficient of Range
+- Coefficient of Variation
+- Coefficient of Mean Deviation
+- Coefficient of Quartile Deviation
+- Percentiles and Quartiles
+- The Five Number Summary, Interquartile Range(IQR), and Boxplots
+- The Effects of Outliers
+- Normal or Gaussian Distribution
+- Understanding Normal/Gaussian Distributions
+- Why do Normal/Gaussian Distributions matter?
+- What are the Properties of Normal/Gaussian Distributions?
+- Empirical Rule of Normal/Gaussian Distribution
+- Empirical Rule is also called as the 68–95–99.7 Rule
+- What are Z-Scores?
+- What does the Z-Score tell you?
+- Why are Z-Scores Important?
+- How to Interpret Z-Scores?
+- Standardization (Application of Z-Score)
+- Z-Scores (More Examples)
